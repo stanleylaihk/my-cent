@@ -1,6 +1,6 @@
 # myCent UI Case Study
 
-myCentennial is an indexing website that allows Centennial College students to access and redirect to all the needed information for their entire college life including course enrollment, financial service, transcript, and other school service.
+myCentennial is an **indexing website** that allows Centennial College students to access and redirect to all the needed information for their entire college life including course enrollment, financial service, transcript, and other school service.
 
 Demonstration\
 http://stanleylaihk.github.io/my-cent
